@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>The Black Files: Epstein's Hidden Fortune</title>
+    <link>https://example.com/black-files-podcast</link>
+    <language>en-us</language>
+    <copyright>© 2026 The Black Files Podcast. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 12 Feb 2026 12:00:00 PST</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 12:00:00 PST</pubDate>
+    <ttl>1440</ttl>
+    
+    <!-- iTunes/Podcast Meta -->
+    <itunes:author>The Black Files Podcast</itunes:author>
+    <itunes:summary>From the 348,381 documents in the Epstein files comes a story of hidden millions, political power, and secrets that reach the highest offices in the land. The Black Files investigates the nearly $20 million relationship between billionaire Leon Black and Jeffrey Epstein.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>The Black Files Podcast</itunes:name>
+      <itunes:email>contact@blackfilespodcast.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://example.com/black-files-cover-art.jpg"/>
+    <itunes:category text="True Crime"/>
+    <itunes:category text="News">
+      <itunes:category text="Politics"/>
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    
+    <!-- Podcast Description -->
+    <description>
+      <![CDATA[
+      <p>From the 348,381 documents in the Epstein files comes a story of hidden millions, political power, and secrets that reach the highest offices in the land.</p>
+      
+      <p><strong>The Black Files: Epstein's Hidden Fortune</strong> investigates the nearly $20 million relationship between billionaire Leon Black—chairman of Apollo Global Management—and convicted sex offender Jeffrey Epstein.</p>
+      
+      <p>Hosted by investigative journalists, this 10-episode series examines:</p>
+      <ul>
+        <li>The $19.75 million payment hidden through shell companies</li>
+        <li>Inside trading tips shared between billionaires</li>
+        <li>Obama White House Counsel meetings with Epstein</li>
+        <li>Former Israeli Prime Minister appointments</li>
+        <li>The "dinner party from hell" with Woody Allen and political elites</li>
+      </ul>
+      
+      <p>New episodes every week. Subscribe now.</p>
+      ]]>
+    </description>
+    
+    <!-- Episode 1 -->
+    <item>
+      <title>Episode 1: The $19.75 Million Question</title>
+      <link>https://example.com/black-files-podcast/episode-1</link>
+      <guid isPermaLink="true">https://example.com/black-files-podcast/episode-1</guid>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 PST</pubDate>
+      <enclosure url="https://example.com/episodes/episode-01.mp3" length="35000000" type="audio/mpeg"/>
+      <itunes:duration>20:45</itunes:duration>
+      <itunes:author>The Black Files Podcast</itunes:author>
+      <itunes:subtitle>In October 2015, Leon Black wired $19.75 million to Jeffrey Epstein with instructions to hide his name from public records. This episode reveals the smoking gun email and the shell company maze used to conceal the payment.</itunes:subtitle>
+      <itunes:summary>In October 2015, Leon Black—billionaire chairman of Apollo Global Management—wired $19.75 million to Jeffrey Epstein. The money was routed through shell companies with specific instructions to hide Black's name from public records. Why would one of Wall Street's most powerful figures pay a convicted sex offender nearly $20 million? And what services could Epstein possibly provide to justify such an enormous sum? This episode reveals the smoking gun email, the complex web of shell companies, and the dinner party from hell that brought together a convicted sex offender, a billionaire, Obama White House Counsel, and Hollywood elite—all on the same day the payment was coordinated.</itunes:summary>
+      <itunes:image href="https://example.com/black-files-cover-art.jpg"/>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Epstein, Leon Black, Jeffrey Epstein, Apollo Global Management, financial crimes, shell companies, Kathy Ruemmler, Obama White House, true crime, investigative journalism</itunes:keywords>
+      
+      <description>
+        <![CDATA[
+        <h2>Episode 1: The $19.75 Million Question</h2>
+        
+        <p>In October 2015, Leon Black—billionaire chairman of Apollo Global Management—wired <strong>$19.75 million</strong> to Jeffrey Epstein. The money was routed through shell companies with specific instructions to hide Black's name from public records.</p>
+        
+        <h3>What We Cover:</h3>
+        <ul>
+          <li><strong>The Smoking Gun:</strong> The email that says "avoid public disclosure of Leon name"</li>
+          <li><strong>The Shell Company Maze:</strong> How $19.75M moved through Black Family Partners → Automotive LLC → Epstein's entities</li>
+          <li><strong>The Timeline:</strong> October 5-13, 2015—the week everything changed</li>
+          <li><strong>The Dinner Party from Hell:</strong> Woody Allen, Obama White House Counsel Kathy Ruemmler, and a convicted sex offender—all at one table</li>
+        </ul>
+        
+        <h3>Key Documents Referenced:</h3>
+        <ul>
+          <li>EFTA02485037 - Wiring instructions for $19.75M payment (October 12, 2015)</li>
+          <li>EFTA02485180 - Schedule showing Kathy Ruemmler 11am, Leon Black 2:15pm, Woody Allen dinner 7:30pm (October 13, 2015)</li>
+          <li>EFTA02485504 - Dinner description with full guest list</li>
+        </ul>
+        
+        <h3>Warning:</h3>
+        <p>This episode contains discussions of financial crimes, sexual abuse, and topics that may be disturbing to some listeners. Discretion is advised.</p>
+        
+        <h3>Show Notes & Links:</h3>
+        <p>View full show notes and document sources at: <a href="https://example.com/black-files-podcast/episode-1">example.com/black-files-podcast/episode-1</a></p>
+        
+        <h3>Next Week:</h3>
+        <p><strong>Episode 2: "The Insider Tip"</strong> — The August 2009 email where Leon Black shares material non-public information with Jeffrey Epstein about a stock approval that hadn't been announced yet. Securities law violations documented in the Epstein files.</p>
+        
+        <hr>
+        
+        <p><em>The Black Files: Epstein's Hidden Fortune is an independent investigative podcast. All allegations are sourced from primary documents released as part of public records and legal proceedings.</em></p>
+        ]]>
+      </description>
+      
+      <content:encoded>
+        <![CDATA[
+        <h2>Episode 1: The $19.75 Million Question</h2>
+        
+        <p>From the 348,381 documents in the Epstein files comes a story of hidden millions, political power, and secrets that reach the highest offices in the land.</p>
+        
+        <h3>Synopsis</h3>
+        <p>In October 2015, Leon Black—billionaire chairman of Apollo Global Management—wired <strong>$19.75 million</strong> to Jeffrey Epstein. The money was routed through shell companies with specific instructions to hide Black's name from public records.</p>
+        
+        <p>Why would one of Wall Street's most powerful figures pay a convicted sex offender nearly $20 million? And what services could Epstein possibly provide to justify such an enormous sum?</p>
+        
+        <h3>This Episode Reveals:</h3>
+        <ul>
+          <li><strong>The October 2015 Payment:</strong> $15M to Southern Trust Company, $4.75M to Epstein's foundation</li>
+          <li><strong>The Shell Company Maze:</strong> How the money moved through multiple entities to hide its source</li>
+          <li><strong>The Smoking Gun Email:</strong> "In an effort to avoid public disclosure of Leon name..."</li>
+          <li><strong>The Dinner Party from Hell:</strong> October 13, 2015—Woody Allen, Soon Yi, Terje Larsen, and Obama White House Counsel Kathy Ruemmler all dining with Jeffrey Epstein</li>
+        </ul>
+        
+        <h3>Primary Source Documents</h3>
+        <p>All claims in this episode are based on documents from the Epstein files:</p>
+        <ul>
+          <li>EFTA02485037 (October 12, 2015) — $19.75M payment coordination</li>
+          <li>EFTA02485180 (October 13, 2015) — Meeting schedule</li>
+          <li>EFTA02485504 (October 4, 2015) — Dinner guest list</li>
+        </ul>
+        
+        <h3>Legal Disclaimer</h3>
+        <p>This podcast is based on documents released as part of public records and legal proceedings. All allegations are sourced from primary documents. Opinions expressed are those of the host and guests. All individuals mentioned are presumed innocent of any crimes unless proven guilty in a court of law. This podcast does not constitute legal advice.</p>
+        ]]>
+      </content:encoded>
+    </item>
+    
+  </channel>
+</rss>
